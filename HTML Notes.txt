@@ -8652,7 +8652,7 @@ Command to install: npm install -g firebase-tools@13.11.2
 
 Command to login: firebase login
 
-Command to add firebase to angular: ng add @angular/fire
+Command to add firebase to angular: ng add @angular/fire instead use -> npm install firebase @angular/fire --legacy-peer-deps and then check ->  npm list firebase
 
 Step 6: Update environment.ts
 
