@@ -8648,7 +8648,7 @@ Cloud Storage
 Cloud Functions
 Cloud Messaging
 
-Command to install: npm install -g firebase-tools@13.11.2
+Command to install: npm install -g firebase-tools@13.35.1
 
 Command to login: firebase login
 
